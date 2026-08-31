@@ -1,0 +1,2 @@
+model1:#{'subsample': 0.7, 'n_estimators': 600, 'min_child_weight': 5, 'max_depth': 6, 'learning_rate': 0.01, 'gamma': 0.2, 'colsample_bytree': 0.8}
+
